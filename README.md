@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**songhyunkim-actionpower/songhyunkim-actionpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager at **ActionPower**, building [Daglo](https://daglo.ai) — an AI-powered meeting transcription & management service.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ActionPower** — Product Manager, Daglo · *Apr 2026 – Present*
+- **ESTsecurity** — Product Manager, ALYac (알약) · *Dec 2022 – Apr 2026*
+
+
+## About
+- 🏋️ Always moving — gym is my second office
+- 📚 Reader & writer at heart
+- 🎪 Festival season is the best season
+- 📫 songhyun.kim@actionpower.kr
